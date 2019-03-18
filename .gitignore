@@ -1,0 +1,6 @@
+*.csv
+__pycache__
+trello_env/
+dist/
+MANIFEST
+Trello_Stats.egg-info/
